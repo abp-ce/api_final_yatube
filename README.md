@@ -47,3 +47,7 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+### Стек:
+- Django 2.2.16
+- djangorestframework 3.12.4
+- djoser 2.1.0
